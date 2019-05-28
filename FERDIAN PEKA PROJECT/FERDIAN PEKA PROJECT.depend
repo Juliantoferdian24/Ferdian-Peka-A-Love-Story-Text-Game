@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1557975669 source:e:\c project\ferdian peka project\main.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<process.h>
+	<MMsystem.h>
+	<Winuser.h>
+	"COLOR.h"
+	"arrowhere.h"
+
+1557902676 e:\c project\ferdian peka project\color.h
+
+1557902587 e:\c project\ferdian peka project\arrowhere.h
+
+1557902619 source:e:\c project\ferdian peka project\arrowhere.c
+	"arrowhere.h"
+	<stdio.h>
+
+1557902715 source:e:\c project\ferdian peka project\color.c
+	"COLOR.h"
+	<stdio.h>
+
+1557902620 source:c:\ferdian peka project\arrowhere.c
+	"arrowhere.h"
+	<stdio.h>
+
+1557902588 c:\ferdian peka project\arrowhere.h
+
+1558962495 source:c:\ferdian peka project\color.c
+	"COLOR.h"
+	<stdio.h>
+
+1557902678 c:\ferdian peka project\color.h
+
+1558967637 source:c:\ferdian peka project\main.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<process.h>
+	<MMsystem.h>
+	<Winuser.h>
+	"COLOR.h"
+	"arrowhere.h"
+
